@@ -1,0 +1,16 @@
+#01. First Run as Administrator Your Windows PowerShell 
+
+#02. Second run below command on your powerShell terminal 
+copy below Command and run
+============================================
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
+
+
+
+## I hope it will help temporary or permanently
+
+## If don't work, then try to run above command into your project directory where you want to install your react native project
+
+#Happy Programmer ):
+
+Developer Rijan
